@@ -1,6 +1,6 @@
 ## Jeff Doolittle
 
-### Software Architect. Transformational Leader. I help make good software professionals great!
+### Software Architect. Transformational Leader. se-radio.net host. I help make good software professionals great!
 
 <kbd><strong>[⁉️ Ask me anything](https://github.com/jeffdoolittle/jeffdoolittle/issues/new?assignees=jeffdoolittle&labels=ama&template=ama.md&title=%5BAMA%5D)</strong></kbd>
 
