@@ -1,8 +1,10 @@
 # Jeff Doolittle
 
-**Distinguished Engineer. Principal Architect. Systems Thinker.**
+**AI-Native Systems. Executive-Scale Impact.**
 
-*I help make good software professionals great.*
+**Distinguished Engineer. Experienced Technology Executive. Principal Architect. Systems Thinker.**
+
+*I help organizations translate emerging AI capabilities into durable business value.*
 
 - Distinguished Engineer and Principal Architect at [Trimble](https://trimble.com)
 - AI-era systems leadership, enterprise architecture, and rigorous systems engineering
