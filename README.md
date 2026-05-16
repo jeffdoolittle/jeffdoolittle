@@ -1,9 +1,25 @@
-## Jeff Doolittle
+# Jeff Doolittle
 
-### Software Architect. Strategic Business Leader. *I help make good software professionals great!*
+**Distinguished Engineer. Principal Architect. Systems Thinker.**
 
-- 👋 Hi! I'm Jeff Doolittle.
-- 🏗️ I am a Distinguished Engineer and Principal Architect at [Trimble](https://www.trimble.com/en/people-and-culture#innovate)
-- ✏️ I write at [https://jeffdoolittle.com](https://jeffdoolittle.com)
-- ⛓️ You can contact me on LinkedIn [https://www.linkedin.com/in/jeffdoolittle/](https://www.linkedin.com/in/jeffdoolittle/)
-- 🎵 I occasionally share my music on SoundCloud [https://soundcloud.com/jeffdoolittle](https://soundcloud.com/jeffdoolittle)
+*I help make good software professionals great.*
+
+- Distinguished Engineer and Principal Architect at [Trimble](https://trimble.com)
+- AI-era systems leadership, enterprise architecture, and rigorous systems engineering
+- CTO experience across consulting and SaaS
+- Writer, presenter, mentor, and former host of [Software Engineering Radio](https://www.se-radio.net/team/jeff-doolittle/)
+
+## Current Focus
+
+- AI-native workflows and AI-assisted engineering
+- architecture as complexity containment
+- system design, decomposition, constraints, and guardrails
+- helping teams improve decision quality and create durable business value
+
+## Learn More
+
+- Website: [jeffdoolittle.com](https://jeffdoolittle.com)
+- About: [jeffdoolittle.com/about](https://jeffdoolittle.com/about/)
+- Portfolio: [jeffdoolittle.com/portfolio](https://jeffdoolittle.com/portfolio/)
+- Leadership Writing: [jeffdoolittle.com/leadership](https://jeffdoolittle.com/leadership/)
+- LinkedIn: [linkedin.com/in/jeffdoolittle](https://www.linkedin.com/in/jeffdoolittle/)
